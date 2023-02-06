@@ -1,7 +1,7 @@
 # House_Prices_Predictive_Model
 ## Predictive Analysis of House Prices (Spanish version)
 
-I created a Lineal Regression Model to predict the House Prices importing the dataset from Kaggle.
+I created a Lineal Regression Model to predict the House Prices importing the dataset from Kaggle for my Machine Learning class of my Master in Data Science.
 
 ### **The project is divided in 4 phases:**
 1. Data Collection
